@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9HHwctfGd4BYoCbCl5ZR7yopgJwCM76QZ5v/26sM0tTmUSTRiQOO8s1vg218dIguPYKRcH/Mky2vIbhNPo52hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\letel\\source\\repos\\ApiRest\\AR.Apresentacao\\AR.Apresentacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\letel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\letel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\letel\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\letel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\letel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\letel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
